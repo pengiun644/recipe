@@ -24,12 +24,15 @@ body {
 
 #part1 {
 
-    grid-column-start: 1;
-    grid-column-end: 3;
+  #part1 {
+
+    width: 300px;
+    heingt: 200px;
     font-size: 30px ;
     background-color: rgb(108, 25, 25);
     font-family: myfont;
-}
+    border-radius: 20px;
+  }
 
  #part2 { 
    
