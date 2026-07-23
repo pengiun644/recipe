@@ -6,21 +6,17 @@ body {
 
 }
 
-.conatianer { 
-
-    background-color: rgb(126, 26, 26);
-    display : grid;
-    grid-template-columns: auto auto;
-    padding : 5px;
-    gap: 10px;
-}
-
 .container div {
 
     font-size: 20px;
     text-align: center;
     padding: 15px;
     gap: 5px;
+    background-color: rgb(126, 26, 26);
+    display : grid;
+    grid-template-columns: auto auto;
+    padding : 5px;
+    gap: 10px;
 
 }
 
